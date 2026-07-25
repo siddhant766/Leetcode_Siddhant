@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
