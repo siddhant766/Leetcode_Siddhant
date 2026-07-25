@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3536-maximum-product-of-two-digits) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
