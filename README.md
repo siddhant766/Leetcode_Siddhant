@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3536-maximum-product-of-two-digits) |
@@ -62,5 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0415-add-strings) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
