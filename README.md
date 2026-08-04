@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0620-not-boring-movies) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
