@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0389-find-the-difference) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
