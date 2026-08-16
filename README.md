@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0628-maximum-product-of-three-numbers) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0415-add-strings) |
 ## Stack
