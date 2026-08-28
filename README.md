@@ -103,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Concurrency
 |  |
 | ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
