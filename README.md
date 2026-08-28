@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0219-contains-duplicate-ii) |
+## Concurrency
+|  |
+| ------- |
+| [1226-the-dining-philosophers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
