@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 ## Minimax
 |  |
 | ------- |
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+## Complete Knapsack
+|  |
+| ------- |
+| [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 <!---LeetCode Topics End-->
