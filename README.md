@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0219-contains-duplicate-ii) |
+| [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
 ## Concurrency
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1416-restore-the-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1416-restore-the-array) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -142,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+## Queue
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->
