@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1416-restore-the-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1416-restore-the-array) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 ## Minimax
 |  |
 | ------- |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 <!---LeetCode Topics End-->
