@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0389-find-the-difference) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1416-restore-the-array) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 ## Minimax
 |  |
 | ------- |
@@ -154,4 +157,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Perfect Matching
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 <!---LeetCode Topics End-->
