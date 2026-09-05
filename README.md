@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1406-stone-game-iii) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1463-cherry-pickup-ii) |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Minimax
 |  |
 | ------- |
@@ -203,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Backtracking
+|  |
+| ------- |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+## Combinatorics
+|  |
+| ------- |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 <!---LeetCode Topics End-->
