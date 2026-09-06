@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0020-valid-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0455-assign-cookies) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## String Matching
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Minimax
 |  |
 | ------- |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Nim Game
 |  |
 | ------- |
