@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0389-find-the-difference) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0709-to-lower-case) |
 | [1416-restore-the-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1416-restore-the-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Minimax
 |  |
 | ------- |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Queue
 |  |
 | ------- |
