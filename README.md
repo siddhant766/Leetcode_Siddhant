@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1473-paint-house-iii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1473-paint-house-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1478-allocate-mailboxes) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0389-find-the-difference) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0219-contains-duplicate-ii) |
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Concurrency
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1463-cherry-pickup-ii) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1473-paint-house-iii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1473-paint-house-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1478-allocate-mailboxes) |
 ## Minimax
 |  |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
