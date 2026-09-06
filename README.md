@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1478-allocate-mailboxes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0020-valid-parentheses) |
+| [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
+| [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 ## Minimax
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1463-cherry-pickup-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1463-cherry-pickup-ii) |
+| [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -269,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
