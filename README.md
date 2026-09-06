@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0389-find-the-difference) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1478-allocate-mailboxes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
 ## Bipartite Graph
 |  |
 | ------- |
@@ -258,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Graph Theory
+|  |
+| ------- |
+| [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
 <!---LeetCode Topics End-->
