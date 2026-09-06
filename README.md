@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0709-to-lower-case) |
 | [1416-restore-the-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1416-restore-the-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1531-string-compression-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1531-string-compression-ii) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1531-string-compression-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1531-string-compression-ii) |
 ## Minimax
 |  |
 | ------- |
