@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-string-compression-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1531-string-compression-ii) |
 | [1537-get-the-maximum-score](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Minimax
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Matrix
 |  |
 | ------- |
