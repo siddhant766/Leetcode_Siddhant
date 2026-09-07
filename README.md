@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1575-count-all-possible-routes) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1416-restore-the-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1531-string-compression-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1531-string-compression-ii) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0455-assign-cookies) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1537-get-the-maximum-score) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## String Matching
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1575-count-all-possible-routes) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Minimax
 |  |
 | ------- |
