@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1575-count-all-possible-routes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1575-count-all-possible-routes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Minimax
 |  |
 | ------- |
@@ -237,14 +240,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Matching (Graph)
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Perfect Matching
 |  |
 | ------- |
@@ -263,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1463-cherry-pickup-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -355,4 +362,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Minimum-Cost Flow
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Flow Network
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 <!---LeetCode Topics End-->
