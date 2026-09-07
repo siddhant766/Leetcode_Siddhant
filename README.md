@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1563-stone-game-v) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1563-stone-game-v](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1563-stone-game-v) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [1563-stone-game-v](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
