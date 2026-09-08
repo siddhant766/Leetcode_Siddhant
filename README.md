@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1655-distribute-repeating-integers) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1681-minimum-incompatibility) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-maximize-grid-happiness](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1659-maximize-grid-happiness) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1681-minimum-incompatibility) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 ## Minimax
 |  |
 | ------- |
@@ -251,14 +254,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 ## Queue
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 ## Bitmask
 |  |
 | ------- |
@@ -420,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1655-distribute-repeating-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1655-distribute-repeating-integers) |
+## Segment Tree
+|  |
+| ------- |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 <!---LeetCode Topics End-->
