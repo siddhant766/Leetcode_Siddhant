@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Minimax
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1575-count-all-possible-routes) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -374,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Recursion
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
