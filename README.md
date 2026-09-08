@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1655-distribute-repeating-integers) |
+| [1659-maximize-grid-happiness](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1659-maximize-grid-happiness) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1643-kth-smallest-instructions](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1643-kth-smallest-instructions) |
 | [1655-distribute-repeating-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1655-distribute-repeating-integers) |
+| [1659-maximize-grid-happiness](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1659-maximize-grid-happiness) |
 ## Minimax
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1655-distribute-repeating-integers) |
+| [1659-maximize-grid-happiness](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1659-maximize-grid-happiness) |
 ## Bipartite Graph
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1575-count-all-possible-routes) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1659-maximize-grid-happiness](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1659-maximize-grid-happiness) |
 ## Matrix
 |  |
 | ------- |
