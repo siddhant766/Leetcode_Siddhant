@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-string-compression-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1531-string-compression-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [3498-reverse-degree-of-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0415-add-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
