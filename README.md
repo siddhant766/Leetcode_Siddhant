@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1681-minimum-incompatibility) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-string-compression-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1531-string-compression-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0415-add-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
