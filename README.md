@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1416-restore-the-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1531-string-compression-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1531-string-compression-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0020-valid-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0455-assign-cookies) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1537-get-the-maximum-score) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## String Matching
@@ -446,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
