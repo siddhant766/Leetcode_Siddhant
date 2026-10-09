@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1021-remove-outermost-parentheses) |
 | [1416-restore-the-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1416-restore-the-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1531-string-compression-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1531-string-compression-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1021-remove-outermost-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -457,5 +459,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
