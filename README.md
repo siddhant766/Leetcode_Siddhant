@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1681-minimum-incompatibility](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1681-minimum-incompatibility) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-allocate-mailboxes](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1478-allocate-mailboxes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 ## String
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Tree
 |  |
 | ------- |
