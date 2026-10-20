@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
