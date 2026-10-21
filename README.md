@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
