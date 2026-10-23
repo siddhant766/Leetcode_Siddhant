@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-maximize-grid-happiness](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1681-minimum-incompatibility) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
