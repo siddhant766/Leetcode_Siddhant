@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0171-excel-sheet-column-number) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0237-delete-node-in-a-linked-list) |
 ## Sliding Window
 |  |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0002-add-two-numbers) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Enumeration
 |  |
