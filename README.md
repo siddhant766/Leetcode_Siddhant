@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/0645-set-mismatch) |
+| [1254-number-of-closed-islands](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1425-constrained-subsequence-sum) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1254-number-of-closed-islands) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1463-cherry-pickup-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1463-cherry-pickup-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
@@ -405,10 +407,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Design
 |  |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
