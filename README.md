@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1504-count-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -411,11 +413,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
