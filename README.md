@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1494-parallel-courses-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1494-parallel-courses-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -527,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
