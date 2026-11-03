@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3886-sum-of-sortable-integers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
