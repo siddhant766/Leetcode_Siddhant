@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3731-find-missing-elements) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1681-minimum-incompatibility](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1681-minimum-incompatibility) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [3665-twisted-mirror-path-count](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/siddhant766/Leetcode_Siddhant/tree/master/3693-climbing-stairs-ii) |
 ## Minimax
 |  |
 | ------- |
